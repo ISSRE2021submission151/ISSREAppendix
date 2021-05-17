@@ -1,0 +1,767 @@
+{
+  "Lookup Table": [
+    {
+      "node_name": "mrpt",
+      "node_url": "https://github.com/mrpt/mrpt.git",
+      "issues": [
+        {
+          "url": "https://github.com/MRPT/mrpt/issues/243",
+          "description": "Bad Floating point compairson for gird generation allows comparison between float32 and float64 which generates calculation errors and crashes ",
+          "id": 1,
+          "fix_hash": "ebe5c005de317306a219f02005e32bea501baa46",
+          "add_hash": "83c419f42accfb189b1f72855525e107b421c345"
+        },
+        {
+          "url": "https://github.com/MRPT/mrpt/issues/141",
+          "description": "Eigen vector creation issue with specific values ",
+          "id": 2,
+          "fix_hash": "f564006ccaa12783c3f819a0b328a0269ecb260f",
+          "add_hash": "49f8d9e9eaa76966b50a9086acb93233a95a03fa"
+        },
+        {
+          "url": "https://github.com/MRPT/mrpt/issues/862",
+          "description": "Permanent particle curruption with bad input arrays and sizes. Potentially causes a memory leak as well.",
+          "id": 3,
+          "fix_hash": "a4bcb0804962850b2c857bb27db0cafc71cbc529",
+          "add_hash": "74f09bc670f70768a6e7adff8d663031f1c92251"
+        },
+        {
+          "url": "https://github.com/MRPT/mrpt/issues/996",
+          "description": "Eigen solver cannot find solution",
+          "id": 4,
+          "fix_hash": "31e853f504294c1b1ed706b2c3c525c945d63dc0",
+          "add_hash": "6f2bef2a17295aa4df8d4a04a890ad2cb0e7cbfd"
+        },
+        {
+          "url": "https://github.com/mrpt-ros-pkg/mrpt_navigation/issues/120",
+          "description": "NOVEL BUG NAN",
+          "id": 5,
+          "fix_hash": "",
+          "add_hash": ""
+        }
+      ]
+    },
+    {
+      "node_name": "cartographer_ros",
+      "node_url": "https://github.com/googlecartographer/cartographer_ros",
+      "issues": [
+        {
+          "url": "https://github.com/googlecartographer/cartographer_ros/issues/1174",
+          "description": "",
+          "id": 6,
+          "fix_hash": "718e588fa1ac24f00d43b4fc03947d56fd385249",
+          "add_hash": "e5b63e377af669addc15733b899b630988c43185"
+        },
+        {
+          "url": "https://github.com/googlecartographer/cartographer_ros/issues/693",
+          "description": "",
+          "id": 7,
+          "fix_hash": "2538ac3e45ccaf553e956bbb7e745c26008460bf",
+          "add_hash": "d96aa2105b67cb2e81f514a63c10fa3260fbbdaf"
+        },
+        {
+          "url": "https://github.com/googlecartographer/cartographer/issues/647",
+          "description": "",
+          "id": 8,
+          "fix_hash": "d34a2e36b8e172a7bad2fd6ee70b81d15b73a85c",
+          "add_hash": "3744988fd2f18cf03f10b828e4be70b0ac01a9f5"
+        },
+        {
+          "url": "https://github.com/googlecartographer/cartographer_ros/issues/498",
+          "description": "",
+          "id": 9,
+          "fix_hash": "1de03b3d32b9e4e5bc86aa9bfca948e592efd10d",
+          "add_hash": "c90b887bfbb62aba873e60bddb2ccbcac6c826c3"
+        },
+        {
+          "url": "https://github.com/googlecartographer/cartographer_ros/issues/270",
+          "description": "",
+          "id": 10,
+          "fix_hash": "45de59b116bcd57a5c1ea231b10e40e4cc959db2",
+          "add_hash": "166f2568bc278802b1e2116a468c961d22d9ca24"
+        },
+        {
+          "url": "https://github.com/googlecartographer/cartographer_ros/issues/716",
+          "description": "",
+          "id": 11,
+          "fix_hash": "1de03b3d32b9e4e5bc86aa9bfca948e592efd10d",
+          "add_hash": "166f2568bc278802b1e2116a468c961d22d9ca24"
+        },
+        {
+          "url": "https://github.com/googlecartographer/cartographer_ros/issues/1181",
+          "description": "",
+          "id": 12,
+          "fix_hash": "1de03b3d32b9e4e5bc86aa9bfca948e592efd10d",
+          "add_hash": "166f2568bc278802b1e2116a468c961d22d9ca24"
+        },
+        {
+          "url": "https://github.com/googlecartographer/cartographer_ros/issues/1384",
+          "description": "",
+          "id": 13,
+          "fix_hash": "1de03b3d32b9e4e5bc86aa9bfca948e592efd10d",
+          "add_hash": "166f2568bc278802b1e2116a468c961d22d9ca24"
+        },
+        {
+          "url": "",
+          "description": "NOVEL BUG NAN",
+          "id": 14,
+          "fix_hash": "",
+          "add_hash": ""
+        }
+      ]
+    },
+    {
+      "node_name": "ardupilot",
+      "node_url": "https://github.com/ArduPilot/ardupilot",
+      "issues": [
+        {
+          "url": "https://github.com/AutonomyLab/ardrone_autonomy/issues/155",
+          "description": "",
+          "id": 15,
+          "fix_hash": "2e3b75a911e922dbaecbd35609cb1f46f6f65618",
+          "add_hash": "3c8fde4e8bdb414e7d13b0218a41f6a0512fc0d1"
+        },
+        {
+          "url": "https://github.com/AutonomyLab/ardrone_autonomy/issues/57",
+          "description": "",
+          "id": 16,
+          "fix_hash": "d35607beb211f56d8ce4aafa45115a1be34c97c2",
+          "add_hash": "efaa64c047fa9ed4e4749056532f2fed348170da"
+        },
+        {
+          "url": "https://github.com/AutonomyLab/ardrone_autonomy/issues/58",
+          "description": "",
+          "id": 17,
+          "fix_hash": "d35607beb211f56d8ce4aafa45115a1be34c97c2",
+          "add_hash": "efaa64c047fa9ed4e4749056532f2fed348170da"
+        },
+        {
+          "url": "https://github.com/AutonomyLab/ardrone_autonomy/issues/225",
+          "description": "",
+          "id": 18,
+          "fix_hash": "d35607beb211f56d8ce4aafa45115a1be34c97c2",
+          "add_hash": "efaa64c047fa9ed4e4749056532f2fed348170da"
+        },
+        {
+          "url": "https://github.com/AutonomyLab/ardrone_autonomy/issues/193",
+          "description": "",
+          "id": 19,
+          "fix_hash": "d35607beb211f56d8ce4aafa45115a1be34c97c2",
+          "add_hash": "efaa64c047fa9ed4e4749056532f2fed348170da"
+        },
+        {
+          "url": "https://github.com/AutonomyLab/ardrone_autonomy/issues/150",
+          "description": "",
+          "id": 20,
+          "fix_hash": "d35607beb211f56d8ce4aafa45115a1be34c97c2",
+          "add_hash": "efaa64c047fa9ed4e4749056532f2fed348170da"
+        },
+        {
+          "url": "https://github.com/AutonomyLab/ardrone_autonomy/issues/9",
+          "description": "",
+          "id": 21,
+          "fix_hash": "66a807223b65e06ffc4d1f9d4905afa16abcfcf2",
+          "add_hash": "efaa64c047fa9ed4e4749056532f2fed348170da"
+        }
+      ]
+    },
+    {
+      "node_name": "carla",
+      "node_url": "https://github.com/carla-simulator/carla.git",
+      "issues": [
+        {
+          "url": "https://github.com/carla-simulator/ros-bridge/issues/207",
+          "description": "",
+          "id": 22,
+          "fix_hash": "8e468ca878de6c2ff740de0acb7d85ba3eaec104",
+          "add_hash": "c8787ae4f9dd2075565f9a21049716fb43b91bf1"
+        },
+        {
+          "url": "https://github.com/carla-simulator/ros-bridge/issues/147",
+          "description": "",
+          "id": 23,
+          "fix_hash": "4edcf0e5ff74885af552b4d7970eceb94a74e1cd",
+          "add_hash": "d0253712784a7da13aee161e9e03cd99b62cd29c"
+        },
+        {
+          "url": "https://github.com/carla-simulator/ros-bridge/issues/42",
+          "description": "",
+          "id": 24,
+          "fix_hash": "625960e373536e43b6570f69bffc084b620bb10d",
+          "add_hash": "8e52b303b2fa9cb5dc306bc4a0f4368608bb3557"
+        },
+        {
+          "url": "https://github.com/carla-simulator/carla/issues/342",
+          "description": "",
+          "id": 25,
+          "fix_hash": "b2bdd96501eba68a5f7be4c08ff3891afca5e68d",
+          "add_hash": "d0253712784a7da13aee161e9e03cd99b62cd29c"
+        },
+        {
+          "url": "https://github.com/carla-simulator/carla/issues/290",
+          "description": "",
+          "id": 26,
+          "fix_hash": "ec3bb9079116a16fb5d494a9a64306a7ca7a32cc",
+          "add_hash": "986a3764debcaf42339612ac95d7550e8fb50ea6"
+        }
+      ]
+    },
+    {
+      "node_name": "lsd_slam",
+      "node_url": "https://github.com/tum-vision/lsd_slam.git",
+      "issues": [
+        {
+          "url": "https://github.com/tum-vision/lsd_slam/issues/298",
+          "description": "",
+          "id": 27,
+          "fix_hash": "d1e6f0e1a027889985d2e6b4c0fe7a90b0c75067",
+          "add_hash": "035c2ec69eaef80fc4bd34a79b132560550b39e1"
+        },
+        {
+          "url": "https://github.com/tum-vision/lsd_slam/issues/203",
+          "description": "",
+          "id": 28,
+          "fix_hash": "d1e6f0e1a027889985d2e6b4c0fe7a90b0c75067",
+          "add_hash": "035c2ec69eaef80fc4bd34a79b132560550b39e1"
+        },
+        {
+          "url": "https://github.com/tum-vision/lsd_slam/issues/122",
+          "description": "",
+          "id": 29,
+          "fix_hash": "d1e6f0e1a027889985d2e6b4c0fe7a90b0c75067",
+          "add_hash": "035c2ec69eaef80fc4bd34a79b132560550b39e1"
+        },
+        {
+          "url": "https://github.com/tum-vision/lsd_slam/issues/21",
+          "description": "",
+          "id": 30,
+          "fix_hash": "d1e6f0e1a027889985d2e6b4c0fe7a90b0c75067",
+          "add_hash": "035c2ec69eaef80fc4bd34a79b132560550b39e1"
+        },
+        {
+          "url": "https://github.com/tum-vision/lsd_slam/issues/14",
+          "description": "",
+          "id": 31,
+          "fix_hash": "cfb8fbb167fb0a0ae45ff46bf7b9b64258ac32bc",
+          "add_hash": "035c2ec69eaef80fc4bd34a79b132560550b39e1"
+        },
+        {
+          "url": "",
+          "description": "NOVEL BUG Derivative",
+          "id": 32,
+          "fix_hash": "",
+          "add_hash": ""
+        }
+      ]
+    },
+    {
+      "node_name": "rtabmap",
+      "node_url": "https://github.com/introlab/rtabmap.git",
+      "issues": [
+        {
+          "url": "https://github.com/introlab/rtabmap/issues/479",
+          "description": "",
+          "id": 33,
+          "fix_hash": "6133399b2e92af000018ae71c71b0e4ef5dbdfc7",
+          "add_hash": "d7871fec2b305e10d4261f3f8be57e995e406c69"
+        },
+        {
+          "url": "https://github.com/introlab/rtabmap/issues/431",
+          "description": "",
+          "id": 34,
+          "fix_hash": "6133399b2e92af000018ae71c71b0e4ef5dbdfc7",
+          "add_hash": "d7871fec2b305e10d4261f3f8be57e995e406c69"
+        },
+        {
+          "url": "https://github.com/introlab/rtabmap/issues/337",
+          "description": "",
+          "id": 35,
+          "fix_hash": "9efd7c14fc5c81cd9597fb8e724e7261ba8b3b0a",
+          "add_hash": "d7871fec2b305e10d4261f3f8be57e995e406c69"
+        },
+        {
+          "url": "https://github.com/introlab/rtabmap/issues/298",
+          "description": "",
+          "id": 36,
+          "fix_hash": "173bd49a26543ef1155f902e3d6bbdc51707623f",
+          "add_hash": "7424a1f463c5a2077fbfa0301273a6c21d8e9d82"
+        },
+        {
+          "url": "http://official-rtab-map-forum.67519.x6.nabble.com/Instance-thrown-when-running-simulation-on-gazebo-td4443.html",
+          "description": "",
+          "id": 37,
+          "fix_hash": "6133399b2e92af000018ae71c71b0e4ef5dbdfc7",
+          "add_hash": "d7871fec2b305e10d4261f3f8be57e995e406c69"
+        },
+        {
+          "url": "https://github.com/introlab/rtabmap/issues/276",
+          "description": "",
+          "id": 38,
+          "fix_hash": "344dc165bc28fb9514028483583ce81b1062332e",
+          "add_hash": "2ae1b84f857726ddb37149d6fb5a2ee14066cd86"
+        },
+        {
+          "url": "https://github.com/introlab/rtabmap/issues/275",
+          "description": "",
+          "id": 39,
+          "fix_hash": "344dc165bc28fb9514028483583ce81b1062332e",
+          "add_hash": "2ae1b84f857726ddb37149d6fb5a2ee14066cd86"
+        },
+        {
+          "url": "https://github.com/introlab/rtabmap/issues/151",
+          "description": "",
+          "id": 40,
+          "fix_hash": "344dc165bc28fb9514028483583ce81b1062332e",
+          "add_hash": "2ae1b84f857726ddb37149d6fb5a2ee14066cd86"
+        },
+        {
+          "url": "",
+          "description": "NOVEL BUG CRASH",
+          "id": 41,
+          "fix_hash": "",
+          "add_hash": ""
+        }
+      ]
+    },
+    {
+      "node_name": "moveit",
+      "node_url": "https://github.com/ros-planning/moveit.git",
+      "issues": [
+        {
+          "url": "https://github.com/ros-planning/moveit/issues/1666",
+          "description": "",
+          "id": 42,
+          "fix_hash": "ece0b7b44da2cfcf178e557557bc9d2693d17d5f",
+          "add_hash": "206e93c555a6ddcdbe826809c30b90b89bbb52d8"
+        },
+        {
+          "url": "https://github.com/ros-planning/moveit/issues/1561",
+          "description": "",
+          "id": 43,
+          "fix_hash": "ece0b7b44da2cfcf178e557557bc9d2693d17d5f",
+          "add_hash": "206e93c555a6ddcdbe826809c30b90b89bbb52d8"
+        },
+        {
+          "url": "https://github.com/ros-planning/moveit/issues/1520",
+          "description": "",
+          "id": 44,
+          "fix_hash": "ece0b7b44da2cfcf178e557557bc9d2693d17d5f",
+          "add_hash": "206e93c555a6ddcdbe826809c30b90b89bbb52d8"
+        },
+        {
+          "url": "https://github.com/ros-planning/moveit/issues/1452",
+          "description": "",
+          "id": 45,
+          "fix_hash": "d2439417db01448e6ab9aada45f295f37608327c",
+          "add_hash": "206e93c555a6ddcdbe826809c30b90b89bbb52d8"
+        },
+        {
+          "url": "https://github.com/ros-planning/moveit/issues/1315",
+          "description": "",
+          "id": 46,
+          "fix_hash": "56745eb1b43d9bee1df8043481d9a08d22f54a83",
+          "add_hash": "206e93c555a6ddcdbe826809c30b90b89bbb52d8"
+        },
+        {
+          "url": "https://github.com/ros-planning/moveit/issues/1275",
+          "description": "",
+          "id": 47,
+          "fix_hash": "56745eb1b43d9bee1df8043481d9a08d22f54a83",
+          "add_hash": "206e93c555a6ddcdbe826809c30b90b89bbb52d8"
+        },
+        {
+          "url": "https://github.com/ros-planning/moveit/issues/1191",
+          "description": "",
+          "id": 48,
+          "fix_hash": "5041039e8208278761f3c233d3d7412289a41224",
+          "add_hash": "206e93c555a6ddcdbe826809c30b90b89bbb52d8"
+        },
+        {
+          "url": "",
+          "description": "NOVEL BUG DERIVATIVE",
+          "id": 49,
+          "fix_hash": "",
+          "add_hash": ""
+        }
+      ]
+    },
+    {
+      "node_name": "autoware",
+      "node_url": "https://github.com/autowarefoundation/autoware.git",
+      "issues": [
+        {
+          "url": "https://github.com/autowarefoundation/autoware/issues/2218",
+          "description": "",
+          "id": 50,
+          "fix_hash": "4e9c2ea0048f782aeca3007ea8f46cad4d457f5b",
+          "add_hash": "ae3348a201ac8ace0f1f6054ddc65ef0878c8e5c"
+        },
+        {
+          "url": "https://github.com/autowarefoundation/autoware/issues/2128",
+          "description": "",
+          "id": 51,
+          "fix_hash": "4e9c2ea0048f782aeca3007ea8f46cad4d457f5b",
+          "add_hash": "ae3348a201ac8ace0f1f6054ddc65ef0878c8e5c"
+        },
+        {
+          "url": "https://github.com/autowarefoundation/autoware/issues/2121",
+          "description": "",
+          "id": 52,
+          "fix_hash": "1f3033697736498c57ac6936831c6879d0ee8b2f",
+          "add_hash": "6e5e23386d40e04c4ea46fd1eb7b02899d3ef1b2"
+        },
+        {
+          "url": "https://github.com/autowarefoundation/autoware/issues/2038",
+          "description": "",
+          "id": 53,
+          "fix_hash": "4e9c2ea0048f782aeca3007ea8f46cad4d457f5b",
+          "add_hash": "ae3348a201ac8ace0f1f6054ddc65ef0878c8e5c"
+        },
+        {
+          "url": "https://github.com/autowarefoundation/autoware/issues/1895",
+          "description": "",
+          "id": 54,
+          "fix_hash": "e9f5eec26ad0c040c56cd39cf1d90ad3452fa0ed",
+          "add_hash": "5a2206edab949223f1f897d0d2da17343e4b457c"
+        },
+        {
+          "url": "https://github.com/autowarefoundation/autoware/issues/1810",
+          "description": "",
+          "id": 55,
+          "fix_hash": "4e9c2ea0048f782aeca3007ea8f46cad4d457f5b",
+          "add_hash": "ae3348a201ac8ace0f1f6054ddc65ef0878c8e5c"
+        },
+        {
+          "url": "https://github.com/autowarefoundation/autoware/issues/1729",
+          "description": "",
+          "id": 56,
+          "fix_hash": "31f4bfb103846fa9bf8d918f5fa8ce9e69f4a4aa",
+          "add_hash": "ae3348a201ac8ace0f1f6054ddc65ef0878c8e5c"
+        },
+        {
+          "url": "https://github.com/autowarefoundation/autoware/issues/1350",
+          "description": "",
+          "id": 57,
+          "fix_hash": "e625625302c19fbc2966c438c51221e5ef68e65c",
+          "add_hash": "ae3348a201ac8ace0f1f6054ddc65ef0878c8e5c"
+        }
+      ]
+    },
+    {
+      "node_name": "apm_planner",
+      "node_url": "https://github.com/ArduPilot/apm_planner",
+      "issues": [
+        {
+          "url": "https://github.com/ArduPilot/apm_planner/issues/1024",
+          "description": "",
+          "id": 58,
+          "fix_hash": "3769131c13e2e313444ece2a4e8a6772a09b6221",
+          "add_hash": "26fc0ce0d0edbc93dbe266468b1abd2c58cc58f5"
+        },
+        {
+          "url": "https://github.com/ArduPilot/apm_planner/issues/1019",
+          "description": "",
+          "id": 59,
+          "fix_hash": "942f3e493d7cc5aefa144690acfe41a69d38a107",
+          "add_hash": "4fa6562e5c8c86b98e81b541495ab9c5d9f3fdb9"
+        },
+        {
+          "url": "https://github.com/ArduPilot/apm_planner/issues/691",
+          "description": "",
+          "id": 60,
+          "fix_hash": "c222de77df8b92161ef4d4fbe6d0a65c4c6c836b",
+          "add_hash": "4fa6562e5c8c86b98e81b541495ab9c5d9f3fdb9"
+        },
+        {
+          "url": "https://github.com/ArduPilot/apm_planner/issues/396",
+          "description": "",
+          "id": 61,
+          "fix_hash": "dfe1865a82a68e5339b044c5553ebe1c4340cfed",
+          "add_hash": "4fa6562e5c8c86b98e81b541495ab9c5d9f3fdb9"
+        },
+        {
+          "url": "https://github.com/ArduPilot/apm_planner/issues/360",
+          "description": "",
+          "id": 62,
+          "fix_hash": "d7bea2a2ea231afdeec7b10b6261e42a2ba72562",
+          "add_hash": "4fa6562e5c8c86b98e81b541495ab9c5d9f3fdb9"
+        },
+        {
+          "url": "https://github.com/ArduPilot/apm_planner/issues/335",
+          "description": "",
+          "id": 63,
+          "fix_hash": "d7bea2a2ea231afdeec7b10b6261e42a2ba72562",
+          "add_hash": "4fa6562e5c8c86b98e81b541495ab9c5d9f3fdb9"
+        },
+        {
+          "url": "",
+          "description": "NOVEL BUG ROUTE",
+          "id": 64,
+          "fix_hash": "",
+          "add_hash": ""
+        }
+      ]
+    },
+    {
+      "node_name": "navigation",
+      "node_url": "https://github.com/ros-planning/navigation.git",
+      "issues": [
+        {
+          "url": "https://github.com/ros-planning/navigation/issues/895",
+          "description": "",
+          "id": 65,
+          "fix_hash": "0ce1dfddc227c277a67cd8d4a1405ffa5da97f41",
+          "add_hash": "1f335323a605b49b4108a845c55a7c1ba93a6f2e"
+        },
+        {
+          "url": "https://github.com/ros-planning/navigation/issues/797",
+          "description": "",
+          "id": 66,
+          "fix_hash": "0ce1dfddc227c277a67cd8d4a1405ffa5da97f41",
+          "add_hash": "1f335323a605b49b4108a845c55a7c1ba93a6f2e"
+        },
+        {
+          "url": "https://github.com/ros-planning/navigation/issues/794",
+          "description": "",
+          "id": 67,
+          "fix_hash": "c2c7621bd4724c319c93c36a9f9dd703b49b5d39",
+          "add_hash": "1f335323a605b49b4108a845c55a7c1ba93a6f2e"
+        },
+        {
+          "url": "https://github.com/ros-planning/navigation/issues/634",
+          "description": "",
+          "id": 68,
+          "fix_hash": "51dfabcb4d6deee5a63329e1e6dfab6ae563d47d",
+          "add_hash": "1f335323a605b49b4108a845c55a7c1ba93a6f2e"
+        },
+        {
+          "url": "https://github.com/ros-planning/navigation/issues/618",
+          "description": "",
+          "id": 69,
+          "fix_hash": "0ce1dfddc227c277a67cd8d4a1405ffa5da97f41",
+          "add_hash": "1f335323a605b49b4108a845c55a7c1ba93a6f2e"
+        },
+        {
+          "url": "https://github.com/ros-planning/navigation/issues/592",
+          "description": "",
+          "id": 70,
+          "fix_hash": "48323b066e9e341c0659d9677346ad13af95ab28",
+          "add_hash": "1f335323a605b49b4108a845c55a7c1ba93a6f2e"
+        },
+        {
+          "url": "https://github.com/ros-planning/navigation/issues/515",
+          "description": "",
+          "id": 71,
+          "fix_hash": "0ce1dfddc227c277a67cd8d4a1405ffa5da97f41",
+          "add_hash": "1f335323a605b49b4108a845c55a7c1ba93a6f2e"
+        },
+        {
+          "url": "https://github.com/ros-planning/navigation/issues/430",
+          "description": "",
+          "id": 72,
+          "fix_hash": "486de8fadbff15ea6da4c7e6c3d98632cdb59be1",
+          "add_hash": "1f335323a605b49b4108a845c55a7c1ba93a6f2e"
+        },
+        {
+          "url": "https://github.com/ros-planning/navigation/issues/424",
+          "description": "",
+          "id": 73,
+          "fix_hash": "f63cf76ca70bcdfee489304626cfcb48a9c3c8b0",
+          "add_hash": "1f335323a605b49b4108a845c55a7c1ba93a6f2e"
+        }
+      ]
+    },
+    {
+      "node_name": "cob_driver",
+      "node_url": "https://github.com/ipa320/cob_driver.git",
+      "issues": [
+        {
+          "url": " https://github.com/ipa320/cob_driver/issues/355",
+          "description": "",
+          "id": 74,
+          "fix_hash": "20d12cbab99204934810f0b6d4a198c95587364c",
+          "add_hash": "7dcb1225c9b442c6ef9d653fe89ef08b0c87e689"
+        },
+        {
+          "url": "https://github.com/ipa320/cob_driver/issues/276",
+          "description": "",
+          "id": 75,
+          "fix_hash": "b6a6025419ea0c77a7ffb89ff04f597f504b7f9a",
+          "add_hash": "7dcb1225c9b442c6ef9d653fe89ef08b0c87e689"
+        },
+        {
+          "url": "https://github.com/ipa320/cob_driver/issues/248",
+          "description": "",
+          "id": 76,
+          "fix_hash": "6b57771db39233930382d7f1a44f5fac5fa76515",
+          "add_hash": "7dcb1225c9b442c6ef9d653fe89ef08b0c87e689"
+        },
+        {
+          "url": "https://github.com/ipa320/cob_driver/issues/208",
+          "description": "",
+          "id": 77,
+          "fix_hash": "f6e06cacac369a25de6109f1fee2e091896b14e7",
+          "add_hash": "7dcb1225c9b442c6ef9d653fe89ef08b0c87e689"
+        },
+        {
+          "url": "https://github.com/ipa320/cob_driver/issues/95",
+          "description": "",
+          "id": 78,
+          "fix_hash": "5f919fcc63249bc1ef9084697f00c8bacbd1a83f",
+          "add_hash": "7dcb1225c9b442c6ef9d653fe89ef08b0c87e689"
+        },
+        {
+          "url": "https://github.com/ipa320/cob_driver/issues/187",
+          "description": "",
+          "id": 79,
+          "fix_hash": "7a5d7c8340ec43e811edf8e5bf1d0b3b925474b8",
+          "add_hash": "7dcb1225c9b442c6ef9d653fe89ef08b0c87e689"
+        }
+      ]
+    },
+    {
+      "node_name": "image_pipeline",
+      "node_url": "https://github.com/ros-perception/image_pipeline/",
+      "issues": [
+        {
+          "url": "https://github.com/ros-perception/image_pipeline/issues/424",
+          "description": "",
+          "id": 80,
+          "fix_hash": "6e9af4073c0d0c12b1d659aba441016e3626d912",
+          "add_hash": "6e13293a386b63acbe8b6411824f6819b96e9d7d"
+        },
+        {
+          "url": "https://github.com/ros-perception/image_pipeline/issues/397",
+          "description": "",
+          "id": 81,
+          "fix_hash": "6e9af4073c0d0c12b1d659aba441016e3626d912",
+          "add_hash": "6e13293a386b63acbe8b6411824f6819b96e9d7d"
+        },
+        {
+          "url": "https://github.com/ros-perception/image_pipeline/issues/205",
+          "description": "",
+          "id": 82,
+          "fix_hash": "00636bdd4a31cc617818bc4b6c8e8adff0ca6077",
+          "add_hash": "6e13293a386b63acbe8b6411824f6819b96e9d7d"
+        },
+        {
+          "url": "https://github.com/ros-perception/image_pipeline/issues/188",
+          "description": "",
+          "id": 83,
+          "fix_hash": "9f6050bb3558334bde209bf95ea8c2754231c752",
+          "add_hash": "6e13293a386b63acbe8b6411824f6819b96e9d7d"
+        },
+        {
+          "url": "https://github.com/ros-perception/image_pipeline/issues/101",
+          "description": "",
+          "id": 84,
+          "fix_hash": "41a655e8e99910c13a3e7f1ebfdd083207cef76f",
+          "add_hash": "6e13293a386b63acbe8b6411824f6819b96e9d7d"
+        },
+        {
+          "url": "https://github.com/ros-perception/image_pipeline/issues/58",
+          "description": "",
+          "id": 85,
+          "fix_hash": "6e9af4073c0d0c12b1d659aba441016e3626d912",
+          "add_hash": "6e13293a386b63acbe8b6411824f6819b96e9d7d"
+        },
+        {
+          "url": "https://github.com/ros-perception/image_pipeline/issues/55",
+          "description": "",
+          "id": 86,
+          "fix_hash": "6e9af4073c0d0c12b1d659aba441016e3626d912",
+          "add_hash": "6e13293a386b63acbe8b6411824f6819b96e9d7d"
+        },
+        {
+          "url": "https://github.com/ros-perception/image_pipeline/issues/43",
+          "description": "",
+          "id": 87,
+          "fix_hash": "d11edf31628c5bc4dd5511748b80b351d3e17ed6",
+          "add_hash": "6e13293a386b63acbe8b6411824f6819b96e9d7d"
+        },
+        {
+          "url": "https://github.com/ros-perception/image_pipeline/issues/506",
+          "description": "NOVEL BUG CRASH",
+          "id": 88,
+          "fix_hash": "",
+          "add_hash": ""
+        }
+      ]
+    },
+    {
+      "node_name": "open-source-rover",
+      "node_url": "https://github.com/nasa-jpl/open-source-rover",
+      "issues": [
+        {
+          "url": "https://github.com/nasa-jpl/open-source-rover/issues/176",
+          "description": "",
+          "id": 89,
+          "fix_hash": "29068ba9478443938ec2f8b64a010263c788176b",
+          "add_hash": "9aa63579879f02a3f1d414c9c32bf6284072180e"
+        },
+        {
+          "url": "https://github.com/nasa-jpl/open-source-rover/issues/175",
+          "description": "",
+          "id": 90,
+          "fix_hash": "29068ba9478443938ec2f8b64a010263c788176b",
+          "add_hash": "9aa63579879f02a3f1d414c9c32bf6284072180e"
+        },
+        {
+          "url": "https://github.com/nasa-jpl/open-source-rover/issues/173",
+          "description": "",
+          "id": 91,
+          "fix_hash": "29068ba9478443938ec2f8b64a010263c788176b",
+          "add_hash": "9aa63579879f02a3f1d414c9c32bf6284072180e"
+        },
+        {
+          "url": "https://github.com/nasa-jpl/osr-rover-code/issues/65",
+          "description": "NOVEL BUG CRASH",
+          "id": 92,
+          "fix_hash": "",
+          "add_hash": ""
+        }
+      ]
+    },
+    {
+      "node_name": "universal_robot",
+      "node_url": "https://github.com/ros-industrial/universal_robot",
+      "issues": [
+        {
+          "url": " https://github.com/ros-industrial/universal_robot/issues/287",
+          "description": "",
+          "id": 93,
+          "fix_hash": "06d8b9e2f5f86aa54f9f2845f11edbc84e2f951e",
+          "add_hash": "eaff5f376e65af0c117962cda56f3fa675f453cc"
+        },
+        {
+          "url": "https://github.com/ros-industrial/universal_robot/issues/203",
+          "description": "",
+          "id": 94,
+          "fix_hash": "06d8b9e2f5f86aa54f9f2845f11edbc84e2f951e",
+          "add_hash": "eaff5f376e65af0c117962cda56f3fa675f453cc"
+        },
+        {
+          "url": "https://github.com/ros-industrial/universal_robot/issues/147",
+          "description": "",
+          "id": 95,
+          "fix_hash": "38c912d4cfabfcf7e0310639f5b78bab2fca24fe",
+          "add_hash": "eaff5f376e65af0c117962cda56f3fa675f453cc"
+        },
+        {
+          "url": "https://github.com/ros-industrial/universal_robot/issues/127",
+          "description": "",
+          "id": 96,
+          "fix_hash": "1cf2e3f3dd5ff5ed29af046cb8cfd83b96757ad6",
+          "add_hash": "eaff5f376e65af0c117962cda56f3fa675f453cc"
+        },
+        {
+          "url": "https://github.com/ros-industrial/universal_robot/issues/76",
+          "description": "",
+          "id": 97,
+          "fix_hash": "06d8b9e2f5f86aa54f9f2845f11edbc84e2f951e",
+          "add_hash": "eaff5f376e65af0c117962cda56f3fa675f453cc"
+        }
+      ]
+    }
+  ]
+}
